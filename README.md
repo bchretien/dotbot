@@ -1,6 +1,8 @@
 Dotbot
 ======
 
+[![Build Status](https://travis-ci.org/anishathalye/dotbot.svg?branch=master)](https://travis-ci.org/anishathalye/dotbot)
+
 Dotbot makes installing your dotfiles as easy as `git clone $url && cd dotfiles
 && ./install`, even on a freshly installed system!
 
