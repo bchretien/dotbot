@@ -14,6 +14,6 @@ EOF
 '
 
 test_expect_success 'test' '
-test -f ~/.f &&
+test -f ~/.foooooo &&
 ! test -h ~/.g
 '
